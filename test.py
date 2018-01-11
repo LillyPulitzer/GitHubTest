@@ -1,6 +1,1 @@
 print("quick test")
-print("another test")
-print("last test")
-print("quick test")
-print("another test")
-print("last test")
